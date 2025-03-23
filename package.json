@@ -1,25 +1,12 @@
 {
   "name": "moshify2",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "node-gyp-build": "^4.8.4",
-    "postcss": "^8.4.49",
-    "postcss-load-config": "^6.0.1",
-    "postcss-preset-env": "^10.1.1",
-    "parcel": "^2.9.3"
-    
-  },
-  "dependencies": {
-    "htmlnano": "^2.1.1",
-    "normalize.css": "^8.0.1",
-    "posthtml": "^0.16.6"
-  }
-  
+  "description": ""
 }
